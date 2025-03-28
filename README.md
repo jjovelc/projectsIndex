@@ -76,7 +76,6 @@ This index provides links to all lab projects organized by Principal Investigato
 | Repository | Researcher | Project | URL |
 |------------|------------|---------|-----|
 | YatesR_AjmalS_mXLS (micro XLS) | Ajmal Sidra | Pipeline for processing fluorescence data collected in ImageXpress® Micro XLS | [Link](Pipeline for processing fluorescence data collected in ImageXpress® Micro XLS) |
-| YatesR_AjmalS_mXLS (micro XLS) | Ajmal Sidra | Pipeline for processing fluorescence data collected in ImageXpress® Micro XLS | [Link](https://github.com/jjovelc/YatesR_AjmalS_mXLS) |
 
 ### Rolian Campbell
 
