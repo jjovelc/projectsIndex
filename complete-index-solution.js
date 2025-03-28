@@ -111,13 +111,13 @@ function generateIndexContent(repos) {
   });
   
   // Generate README content
-  let content = `![Lab Projects Index Banner](bio-banner-3.jpg)\n\n`;
-  let content = `# Projects Index\n\n`;
+  let content = `![Lab Projects Index Banner](bio-banner-3.jpg)\n\n`; // Banner image
+  content += `# Projects Index\n\n`; // Note: += instead of =
   content += `## About This Repository\n`;
   content += `This index provides links to all lab projects organized by Principal Investigator. Each repository follows our naming convention:\n`;
   content += `\`SURNAME+Initial of PI_SURNAME+Initial of researcher_project abbreviation\`\n\n`;
   content += `## Projects by Principal Investigator\n\n`;
-  
+
   // Sort PIs alphabetically
   const sortedPIs = Object.keys(piRepos).sort();
   

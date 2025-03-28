@@ -73,6 +73,12 @@ This index provides links to all lab projects organized by Principal Investigato
 | NiuD_JovelJ_EcoliPR (E. coli phage resistance) | Donyang Niu | GWAS analysis to identify E. coli genes or SNPS associated with phage resistance | [Link](https://github.com/jjovelc/NiuD_JovelJ_EcoliPR) |
 | projectsIndex | Juan Jovel | Index of repos | [Link](https://github.com/jjovelc/projectsIndex.git) |
 
+### Leland Jackson
+
+| Repository | Researcher | Project | URL |
+|------------|------------|---------|-----|
+| JacksonL_BahramiS_MTR (Metagenomics of Tile and Rocks) | Setareth Bahrami | Metagenomics of Tile and Rocks | [Link](Metagenomics of Tile and Rocks) |
+
 ### Robin Yates
 
 | Repository | Researcher | Project | URL |
