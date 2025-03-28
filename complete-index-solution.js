@@ -111,7 +111,7 @@ function generateIndexContent(repos) {
   });
   
   // Generate README content
-  ![Lab Projects Index Banner](bioinfo_banner.jpg)
+  let content ![Lab Projects Index Banner](bioinfo_banner.jpg)
   let content = `# Projects Index\n\n`;
   content += `## About This Repository\n`;
   content += `This index provides links to all lab projects organized by Principal Investigator. Each repository follows our naming convention:\n`;
