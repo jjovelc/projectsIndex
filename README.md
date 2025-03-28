@@ -1,4 +1,4 @@
-# Lab Project Index
+# Projects Index
 
 ## About This Repository
 This index provides links to all lab projects organized by Principal Investigator. Each repository follows our naming convention:
