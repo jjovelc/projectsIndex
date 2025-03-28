@@ -1,3 +1,5 @@
+![Lab Projects Index Banner](bio-banner-3.jpg)
+
 # Projects Index
 
 ## About This Repository
