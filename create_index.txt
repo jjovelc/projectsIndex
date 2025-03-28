@@ -1,0 +1,122 @@
+# Setting Up Your GitHub Lab Index Page
+
+This guide will help you create and maintain an index page for your GitHub repositories using the new naming conventions you've implemented. The index will organize your repositories by Principal Investigator (PI) and provide quick access to all your lab projects.
+
+## Prerequisites
+
+- Node.js and npm installed on your computer
+- A GitHub personal access token with repo scope
+
+## Step 1: Create a New Repository
+
+First, create a new repository on GitHub named `LabIndex` (or another name of your choice) that will host your index page.
+
+## Step 2: Set Up the Project
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/jjovelc/LabIndex.git
+cd LabIndex
+```
+
+2. Initialize a new Node.js project:
+
+```bash
+npm init -y
+```
+
+3. Install the required dependencies:
+
+```bash
+npm install @octokit/rest dotenv
+```
+
+4. Create a `.env` file in the project root and add your GitHub token:
+
+```
+GITHUB_TOKEN=your_github_personal_access_token
+```
+
+5. Make sure to add `.env` to your `.gitignore` file to prevent committing your token:
+
+```bash
+echo ".env" >> .gitignore
+```
+
+## Step 3: Choose Your Approach
+
+You have two options for generating your index:
+
+1. **GitHub API approach**: Fetches all your repositories from GitHub and analyzes their names and descriptions
+2. **File-based approach**: Uses your existing list of repositories from a text file
+
+### Option 1: GitHub API Approach
+
+Copy the `github-index-generator.js` script I provided into your project. This script will:
+
+- Fetch all your repositories from GitHub
+- Extract information based on repository names and descriptions
+- Generate a formatted README.md file
+- Update your LabIndex repository
+
+To use it:
+
+```bash
+node github-index-generator.js
+```
+
+### Option 2: File-Based Approach
+
+Copy the `repo-list-parser.js` script I provided into your project. This script will:
+
+- Parse your repository list from a file (e.g., `new_names_repos_250327.md`)
+- Generate a formatted README.md file
+- Update your LabIndex repository
+
+To use it:
+
+```bash
+node repo-list-parser.js
+```
+
+### Option 3: Combined Approach (Recommended)
+
+Copy the `complete-index-solution.js` script I provided into your project. This script offers both approaches with additional features:
+
+- Creates the index repository if it doesn't exist
+- Allows you to choose between API and file-based approaches
+- Saves a preview file before updating GitHub
+- Asks for confirmation before updating
+
+To use it:
+
+```bash
+# Using GitHub API
+node complete-index-solution.js api
+
+# Using file
+node complete-index-solution.js file path/to/your/repo-list.md
+```
+
+## Step 4: Schedule Regular Updates
+
+For the index to stay current, you'll need to run the script periodically. Consider setting up:
+
+1. A GitHub Action that runs the script on a schedule
+2. A local cron job if you prefer running it from your machine
+3. A manual process where you run the script after adding new repositories
+
+## Step 5: Enhance Your Index (Optional)
+
+You can enhance your index page with additional features like:
+
+- Repository statistics (stars, forks, issues)
+- Latest commit dates
+- Contributor counts
+- Custom categorization or tagging
+- Search functionality using GitHub Pages and JavaScript
+
+## Ensuring Repositories Appear in the Index
+
+For your repositories to
