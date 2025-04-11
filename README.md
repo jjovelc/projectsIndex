@@ -101,29 +101,29 @@ This index provides links to all lab projects organized by Principal Investigato
 
 | Abbreviation | Full Project Name |
 |--------------|-------------------|
-| BioInformaTony |  |
-| CHM (Chicken Housing Metagenomics) |  |
-| CRISPR |  |
-| crispr-dav |  |
-| CTA (Chicken transcriptome assembly) |  |
-| databases |  |
-| EcoliGen (E. coli Genomics) |  |
-| EcoliPR (E. coli phage resistance) |  |
-| LN (Longshanks NeonateLim) |  |
-| MSSM (Multiple Schlerosis Shotgun Metagenomics) |  |
-| MTR (Metagenomics of Tile and Rocks) |  |
-| mXLS (micro XLS) |  |
-| RdTA (Reindeer Transcriptome Assembly) |  |
-| SCE (Single Cell Explorer) |  |
-| scMBF (scRNAseq Mouse B-fructan) |  |
-| scMF (scRNAseq Mouse Forelimb) |  |
-| scRNAseqDA (scRNAseq Data Analysis) |  |
-| scTInt (scRNAseq Tendon Integration) |  |
-| software |  |
-| TCCM (Trachean and Cecum Chicken Microbiome) |  |
-| VCN (Variant Calling Nanopore) |  |
-| webpage |  |
-| workshops |  |
+| BioInformaTony | YouTube Channel |
+| CHM | Chicken Housing Metagenomics |
+| CRISPR | Basil Hubbard's project  |
+| crispr-dav | MIT Project |
+| CTA | Chicken transcriptome assembly |
+| databases | UCVM Databases |
+| EcoliGen | E. coli Genomics |
+| EcoliPR | E. coli phage resistance |
+| LN | Longshanks NeonateLim |
+| MSSM | Multiple Schlerosis Shotgun Metagenomics |
+| MTR | Metagenomics of Tile and Rocks |
+| mXLS | micro XLS |
+| RdTA | Reindeer Transcriptome Assembly |
+| SCE | Single Cell Explorer |
+| scMBF | scRNAseq Mouse B-fructan |
+| scMF | scRNAseq Mouse Forelimb |
+| scRNAseqDA | scRNAseq Data Analysis |
+| scTInt |scRNAseq Tendon Integration |
+| software | Software bought for/by UCVM |
+| TCCM | Trachean and Cecum Chicken Microbiome |
+| VCN | Variant Calling Nanopore |
+| webpage | Personal webpage  |
+| workshops | Training workshops |
 
 ## How to Update This Index
 
