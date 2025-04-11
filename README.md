@@ -101,12 +101,29 @@ This index provides links to all lab projects organized by Principal Investigato
 
 | Abbreviation | Full Project Name |
 |--------------|-------------------|
-| BioInformaTony | info related to YouTube channel |
-| CRISPR | CRISPR studies, Basil Hubbard's group |
-| databases | Custom databases |
-| software | Software description |
-| webpage | Personal webpage |
-| workshops | workshops |
+| BioInformaTony |  |
+| CHM (Chicken Housing Metagenomics) |  |
+| CRISPR |  |
+| crispr-dav |  |
+| CTA (Chicken transcriptome assembly) |  |
+| databases |  |
+| EcoliGen (E. coli Genomics) |  |
+| EcoliPR (E. coli phage resistance) |  |
+| LN (Longshanks NeonateLim) |  |
+| MSSM (Multiple Schlerosis Shotgun Metagenomics) |  |
+| MTR (Metagenomics of Tile and Rocks) |  |
+| mXLS (micro XLS) |  |
+| RdTA (Reindeer Transcriptome Assembly) |  |
+| SCE (Single Cell Explorer) |  |
+| scMBF (scRNAseq Mouse B-fructan) |  |
+| scMF (scRNAseq Mouse Forelimb) |  |
+| scRNAseqDA (scRNAseq Data Analysis) |  |
+| scTInt (scRNAseq Tendon Integration) |  |
+| software |  |
+| TCCM (Trachean and Cecum Chicken Microbiome) |  |
+| VCN (Variant Calling Nanopore) |  |
+| webpage |  |
+| workshops |  |
 
 ## How to Update This Index
 
