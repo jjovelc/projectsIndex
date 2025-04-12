@@ -77,7 +77,8 @@ This index provides links to all lab projects organized by Principal Investigato
 
 | Repository | Researcher | Project | URL |
 |------------|------------|---------|-----|
-| JacksonL_BahramiS_MTR (Metagenomics of Tile and Rocks) | Setareth Bahrami | Metagenomics of Tile and Rocks | [Link](Metagenomics of Tile and Rocks) |
+| JacksonL_BahramiS_MTR (Metagenomics of Tile and Rocks) | Setareth Bahrami | Metagenomics of Tile and Rocks | [Link](https://github.com/jjovelc/JacksonL_BahramiS_MTR) |
+| JacksonL_SepehriZ_MWTP (Metagenomics Water Treatment Plant) | Zahra Sepehri | Metagenomics Water Treatment Plant | [Link](https://github.com/jjovelc/JacksonL_SepehriZ_MWTP) |
 
 ### Robin Yates
 
@@ -124,6 +125,7 @@ This index provides links to all lab projects organized by Principal Investigato
 | VCN | Variant Calling Nanopore |
 | webpage | Personal webpage  |
 | workshops | Training workshops |
+| MWTP | Metagenomics Water Treatment Plant |
 
 ## How to Update This Index
 
